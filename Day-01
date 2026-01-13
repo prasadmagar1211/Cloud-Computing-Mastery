@@ -1,0 +1,31 @@
+# Day 1: Introduction to Cloud Computing
+
+### 🚀 Starting My Journey
+Today I am officially launching my 43-day cloud computing streak. My objective is to master the architecture, 
+deployment models, and virtualization techniques that power modern scalable applications. 
+This repository will document my daily progress, technical insights, and hands-on implementations.
+
+---
+
+### 🟢 Concept Overview
+Cloud Computing is the on-demand delivery of IT resources (compute, storage, databases) via the internet with pay-as-you-go pricing. 
+It eliminates the need to manage physical hardware.
+
+### 🔑 Core Pillars (NIST Model)
+* **On-Demand Self-Service:** Provision resources instantly without human intervention.
+* **Broad Network Access:** Services are accessible over the network via standard mechanisms.
+* **Resource Pooling:** Computing resources are pooled to serve multiple consumers (Multi-tenancy).
+* **Rapid Elasticity:** Capabilities can be elastically provisioned and released to scale rapidly with demand.
+* **Measured Service:** Resource usage is automatically monitored and controlled for transparent billing.
+
+### 📊 Comparison: On-Premise vs. Cloud
+| Feature | On-Premise IT | Cloud Computing |
+| :--- | :--- | :--- |
+| **Cost Model** | CapEx (High Upfront) | OpEx (Pay-as-you-use) |
+| **Agility** | Low (Weeks to deploy) | High (Minutes to deploy) |
+| **Scalability** | Manual & Limited | Automated & Infinite |
+| **Maintenance** | In-house Responsibility | Provider Managed |
+
+### 💡 Key Takeaway
+The transition to cloud is a shift from **Physical Infrastructure** to **Software-Defined Infrastructure**. 
+It allows developers to focus on code and innovation rather than hardware procurement and data center maintenance.
