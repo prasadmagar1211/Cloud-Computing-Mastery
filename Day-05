@@ -1,0 +1,43 @@
+# Day 5: Complete Roadmap to Cloud Computing 
+
+### 🚀 Daily Update
+Today is about the "Big Picture." Following the Gate Smashers Lecture 5, 
+I am documenting the full roadmap to becoming a Cloud Engineer. 
+It’s not just about knowing one provider like AWS or Azure; it’s about understanding the underlying architecture and the sequence of learning required to master the domain.
+
+---
+
+### 🟢 The Learning Path (Roadmap)
+
+To master Cloud Computing, one must progress through these specific stages:
+
+1. **Foundations (The "Why" and "What"):**
+   - History, Evolution, NIST Characteristics, and Benefits.
+   - Understanding Virtualization (The backbone of Cloud).
+
+2. **Architecture & Models:**
+   - Service Models: IaaS, PaaS, SaaS.
+   - Deployment Models: Public, Private, Hybrid, Community.
+
+3. **Cloud Infrastructure Components:**
+   - **Compute:** Virtual Machines, Containers (Docker/K8s).
+   - **Storage:** Object, Block, and File storage.
+   - **Networking:** VPC, Subnets, Load Balancers, Route Tables.
+   - **Database:** SQL vs NoSQL in the Cloud.
+
+4. **Advanced Operations:**
+   - Cloud Security (IAM, Encryption).
+   - Cost Optimization & Monitoring.
+   - Disaster Recovery & Backup.
+
+
+
+### 💎 Key Career Roles in Cloud
+* **Cloud Architect:** Designing the overall infrastructure and choosing the right services.
+* **Cloud Engineer:** Deploying and managing the resources.
+* **Cloud Security Specialist:** Ensuring data privacy and compliance.
+* **DevOps Engineer:** Automating the deployment pipeline using cloud tools.
+
+### 💡 Key Takeaway
+A roadmap is essential to avoid "Tutorial Hell." By following a structured path—starting from the hardware abstraction (Virtualization) 
+to the high-level services (SaaS)—I can build a mental model that applies to any cloud provider, whether it's AWS, GCP, or Azure.
