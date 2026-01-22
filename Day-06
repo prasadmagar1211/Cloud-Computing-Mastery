@@ -1,0 +1,47 @@
+# Day 6: Cloud Deployment Models
+
+### 🚀 Daily Update
+Today I am studying how cloud infrastructure is deployed and who has access to it. 
+While Service Models (SaaS/PaaS/IaaS) define *what* is being delivered, Deployment Models define *where* the infrastructure resides and *who* has control over it.
+
+---
+
+### 🟢 The 4 Primary Deployment Models
+
+#### 1. Public Cloud
+* **Definition:** The cloud infrastructure is made available to the general public over the internet and is owned by a cloud service provider.
+* **Key Features:** Multi-tenancy, pay-as-you-go, no maintenance.
+* **Examples:** AWS, Azure, Google Cloud.
+
+#### 2. Private Cloud
+* **Definition:** The infrastructure is operated solely for a single organization. It can be managed by the organization itself or a third party.
+* **Key Features:** High security, complete control, and dedicated resources.
+* **Examples:** OpenStack, VMware, Microsoft Azure Stack.
+
+#### 3. Hybrid Cloud
+* **Definition:** A combination of two or more clouds (Private, Community, or Public) that remain unique entities but are bound together.
+* **Key Features:** Allows "Cloud Bursting"—using the public cloud to handle traffic spikes while keeping sensitive data on a private cloud.
+
+#### 4. Community Cloud
+* **Definition:** The infrastructure is shared by several organizations that have shared concerns (e.g., security, compliance, or jurisdiction).
+* **Key Features:** Costs are spread over a smaller group of users than a public cloud, but it offers more privacy.
+
+
+
+---
+
+### 📊 Comparison Matrix
+
+| Feature | Public Cloud | Private Cloud | Hybrid Cloud |
+| :--- | :--- | :--- | :--- |
+| **Cost** | Low (OpEx) | High (CapEx) | Moderate |
+| **Control** | Low | Very High | Flexible |
+| **Security** | Moderate | Very High | High |
+| **Scalability** | Near-Infinite | Limited | High |
+
+### 💡 Key Takeaway
+The choice of a deployment model depends on the organization's specific needs for **Budget**, **Security**, and **Compliance**. 
+Most modern enterprises are shifting toward a **Hybrid** strategy to balance cost and control.
+
+---
+**Commit Message:** `feat: day 06 - document public, private, hybrid, and community deployment models`
