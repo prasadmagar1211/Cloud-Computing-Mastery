@@ -1,0 +1,40 @@
+# Day 7: Cloud Computing Architecture
+
+### 🚀 Daily Update
+Today's focus is on the structural design of a cloud computing system. Cloud architecture is essentially the combination of 
+components needed for a cloud computing service. It is primarily divided into two parts: the **Front-End** and the **Back-End**, 
+which communicate with each other via a network (usually the Internet).
+
+---
+
+### 🟢 Architecture Breakdown
+
+#### 1. Front-End (Client Side)
+This is the part that is visible to the end-user. It consists of:
+* **User Interface:** The web browser (Chrome, Safari, etc.) or a specialized cloud application.
+* **Client Infrastructure:** The local device (Laptop, Mobile, PC) used to access the cloud.
+
+#### 2. Back-End (Server Side)
+This is the "engine room" of the cloud. It manages all the resources and provides services. Key components include:
+* **Application:** The software or platform the user wants to access.
+* **Service:** This defines the type of service being run (IaaS, PaaS, or SaaS).
+* **Runtime Cloud:** Provides the execution environment for tasks (like a Virtual Machine or Container).
+* **Storage:** The place where data is kept (hard drives, SSDs, or databases).
+* **Infrastructure:** The actual physical hardware (Servers, CPU, RAM).
+* **Management:** This component manages the back-end resources and coordinates tasks to ensure everything runs smoothly.
+* **Security:** This is built into the back-end to ensure data privacy and prevent unauthorized access.
+
+---
+
+### 📊 Key Components Table
+
+| Component | Responsibility |
+| :--- | :--- |
+| **Hypervisor** | Virtualization layer that allows multiple OS to share the same hardware. |
+| **Management Server** | Allocates resources and monitors traffic. |
+| **Deployment Software** | Manages the configuration and deployment of applications. |
+| **Network** | The bridge (Internet/Intranet) connecting the client to the server. |
+
+### 💡 Key Takeaway
+Cloud architecture isn't just a single server; it’s a **complex ecosystem**. 
+The management and security layers are what make the cloud reliable, ensuring that even if one server fails, the "service" stays alive.
