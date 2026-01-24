@@ -1,6 +1,6 @@
 # Day 6: Cloud Deployment Models
 
-### 🚀 Daily Update
+### 🚀 Daily Update 
 Today I am studying how cloud infrastructure is deployed and who has access to it. 
 While Service Models (SaaS/PaaS/IaaS) define *what* is being delivered, Deployment Models define *where* the infrastructure resides and *who* has control over it.
 
